@@ -797,7 +797,7 @@ em {
 }
 /* ======= cta-section ======= */
 .cta-section {
-  background: #253340 url('../images/background/bg-footer-1.jpeg') no-repeat left top;
+  background: #253340 url('../images/background/bg-footer-1.jpeg') no-repeat center;
   background-size: cover;
   min-height: 420px;
   color: #fff;
